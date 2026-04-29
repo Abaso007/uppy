@@ -1,5 +1,11 @@
 # @uppy/companion-client
 
+## 5.1.2
+
+### Patch Changes
+
+- 7ac2623: uploadRemoteFile() now queues token request and websocket request as a single job in the request queue.
+
 ## 5.1.1
 
 ### Patch Changes

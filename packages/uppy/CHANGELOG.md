@@ -1,5 +1,14 @@
 # uppy
 
+## 5.2.5
+
+### Patch Changes
+
+- Updated dependencies [b9253f7]
+- Updated dependencies [7ac2623]
+  - @uppy/dashboard@5.1.2
+  - @uppy/companion-client@5.1.2
+
 ## 5.2.4
 
 ### Patch Changes
