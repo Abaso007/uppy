@@ -1,5 +1,13 @@
 # @uppy/xhr-upload
 
+## 5.2.1
+
+### Patch Changes
+
+- Updated dependencies [7ac2623]
+- Updated dependencies [ad4050b]
+  - @uppy/companion-client@6.0.0
+
 ## 5.2.0
 
 ### Minor Changes

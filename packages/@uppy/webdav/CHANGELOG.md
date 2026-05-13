@@ -1,5 +1,13 @@
 # @uppy/webdav
 
+## 1.1.2
+
+### Patch Changes
+
+- Updated dependencies [7ac2623]
+- Updated dependencies [ad4050b]
+  - @uppy/companion-client@6.0.0
+
 ## 1.1.1
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @uppy/transloadit
 
+## 5.6.0
+
+### Minor Changes
+
+- 12de077: Remove @uppy/instagram references from all the packages
+- 57f8daf: Add assemblyStatus and lastAssemblyStatus to transloadit's plugin state
+
+### Patch Changes
+
+- @uppy/tus@5.1.2
+
 ## 5.5.1
 
 ### Patch Changes

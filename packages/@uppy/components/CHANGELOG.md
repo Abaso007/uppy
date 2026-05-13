@@ -1,5 +1,11 @@
 # @uppy/components
 
+## 2.0.0
+
+### Major Changes
+
+- 12de077: Remove @uppy/instagram references from all the packages
+
 ## 1.2.0
 
 ### Minor Changes

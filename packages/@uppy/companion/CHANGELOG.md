@@ -1,5 +1,18 @@
 # @uppy/companion
 
+## 7.0.0
+
+### Major Changes
+
+- 12de077: Remove @uppy/instagram references from all the packages
+- ad4050b: Send token using websocket instead of window.opener.
+  Breaking in `@uppy/companion-client` because it needs newest version of Companion in order to work.
+  Breaking in `@uppy/companion` because `companion.socket()` now requires `companionOptions` to be passed as the second argument.
+
+### Patch Changes
+
+- e99a17f: Port Companion to TypeScript. Not really a breaking change but there could be some unexpected breakage.
+
 ## 6.2.2
 
 ### Patch Changes

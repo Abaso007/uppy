@@ -1,5 +1,14 @@
 # @uppy/vue
 
+## 3.2.1
+
+### Patch Changes
+
+- Updated dependencies [b9253f7]
+- Updated dependencies [12de077]
+  - @uppy/dashboard@5.1.2
+  - @uppy/components@2.0.0
+
 ## 3.2.0
 
 ### Minor Changes

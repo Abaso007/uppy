@@ -1,5 +1,37 @@
 # uppy
 
+## 6.0.0
+
+### Major Changes
+
+- 12de077: Remove @uppy/instagram references from all the packages
+
+### Patch Changes
+
+- Updated dependencies [b9253f7]
+- Updated dependencies [12de077]
+- Updated dependencies [7ac2623]
+- Updated dependencies [57f8daf]
+- Updated dependencies [ad4050b]
+  - @uppy/dashboard@5.1.2
+  - @uppy/transloadit@5.6.0
+  - @uppy/locales@5.2.0
+  - @uppy/companion-client@6.0.0
+  - @uppy/aws-s3@5.1.1
+  - @uppy/box@4.1.1
+  - @uppy/dropbox@5.1.1
+  - @uppy/facebook@5.1.1
+  - @uppy/google-drive@5.1.1
+  - @uppy/google-drive-picker@1.1.2
+  - @uppy/google-photos-picker@1.1.1
+  - @uppy/onedrive@5.1.1
+  - @uppy/tus@5.1.2
+  - @uppy/unsplash@5.1.1
+  - @uppy/url@5.1.1
+  - @uppy/webdav@1.1.2
+  - @uppy/xhr-upload@5.2.1
+  - @uppy/zoom@4.1.1
+
 ## 5.2.4
 
 ### Patch Changes

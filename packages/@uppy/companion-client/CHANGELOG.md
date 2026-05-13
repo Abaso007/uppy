@@ -1,5 +1,17 @@
 # @uppy/companion-client
 
+## 6.0.0
+
+### Major Changes
+
+- ad4050b: Send token using websocket instead of window.opener.
+  Breaking in `@uppy/companion-client` because it needs newest version of Companion in order to work.
+  Breaking in `@uppy/companion` because `companion.socket()` now requires `companionOptions` to be passed as the second argument.
+
+### Patch Changes
+
+- 7ac2623: uploadRemoteFile() now queues token request and websocket request as a single job in the request queue.
+
 ## 5.1.1
 
 ### Patch Changes

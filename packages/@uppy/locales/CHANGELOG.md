@@ -1,5 +1,11 @@
 # @uppy/locales
 
+## 5.2.0
+
+### Minor Changes
+
+- 12de077: Remove @uppy/instagram references from all the packages
+
 ## 5.1.1
 
 ### Patch Changes
